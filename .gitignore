@@ -1,0 +1,37 @@
+# Données
+data/
+
+# Modèles générés
+models/
+
+# Résultats et figures générés
+reports/
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# IDE / système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Bases et modèles binaires
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.joblib
